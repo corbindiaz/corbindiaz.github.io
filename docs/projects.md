@@ -1,3 +1,4 @@
 ---
-id: projects-page
+id: Projects
+layout: default
 ---
