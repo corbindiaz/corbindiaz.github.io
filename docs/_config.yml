@@ -1,5 +1,15 @@
-theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-sidebar:
-  - Home
-  - Projects
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/corbindiaz
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/corbin-diaz-6a7863281/
+
+navigation:
+  - name: Home
+    link: ./home.html
+  - name: Projects
+    link: ./projects.html
