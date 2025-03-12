@@ -1,13 +1,14 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
+github: false
+
 plugins:
   - jemoji
 
-logo: /assets/img/logo.png
+logo: assets/img/logo.png
 
 title: Corbin Stone Diaz
 description: Data Science & Math Major @ Northwestern University
-email: corbindiaz2026@u.northwestern.edu
 color-scheme: auto
 
 platforms:
