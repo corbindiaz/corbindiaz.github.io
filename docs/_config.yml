@@ -5,10 +5,10 @@ github: false
 plugins:
   - jemoji
 
-logo: assets/img/logo.png
+logo: /assets/img/logo.png
 
 title: Corbin Stone Diaz
-description: Data Science & Math Major @ Northwestern University
+description: Data Science & Math Major <br />@ Northwestern University
 color-scheme: auto
 
 platforms:
