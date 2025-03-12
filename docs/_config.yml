@@ -1,5 +1,11 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
+## logo: /img/github_profile_image.jpeg
+
+title: Corbin Stone Diaz
+description: Data Science and Mathematics Major @ Northwestern University
+color-scheme: auto
+
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
@@ -10,6 +16,6 @@ platforms:
 
 navigation:
   - name: Home
-    link: ./home.html
+    link: ./index.html
   - name: Projects
     link: ./projects.html
