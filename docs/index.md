@@ -1,5 +1,6 @@
 ---
-id: home-page
+id: Home
+layout: default
 ---
 
 # Hello!
