@@ -1,12 +1,8 @@
 ---
-id: Home
+id: about-page
 layout: default
 ---
 
-# Hello!
+# Hello! :wave:
 
-I am a junior at Northwestern University currently pursuing a double major in Data Science and Mathematics with a minor in Cognitive Science. I have a passion for applying mathematics and statistics to help improve the world through data analysis and machine learning, and hold a major interest in Data Visualization, both in its implementation and in making it more effective. Having served as an undergraduate TA in the Northwestern Data Science department, I hold a strong skillset in both Python and R, and have applied my skills in my work in data analysis and interactive visualization creation for Project SYNCERE, a non-profit in the Chicagoland area.
-
-Outside of Data Science, I work both as a math peer tutor for Northwestern's Drop-In Tutor program and as an undergraduate TA in the mathematics department. With these roles, I hope to further my goal of spreading math education in accessible and friendly ways and encouraging a love for advanced mathematics and related fields. I also hold interests in music, film editing, and linguistics, and I am always looking to apply my interests in volunteering roles or combine them with my skills in math and Data Science.
-
-Check out some of my projects I've made, or some of the research I've done or am currently working on!
+I am a junior majoring in **Data Science** and **Mathematics** with a minor in Cognitive Science at **Northwestern University**. I have an interest for applying mathematics and statistics to help improve the world through data analysis and machine learning, and I hold a major interest in data visualization, both in its implementation and in making it more effective. I hold a strong skillset in both **Python** and **R**, and in the past, I've appplied my visualization skills making weather data interactives and dashboards for Chicagoland non-profit Project SYNCERE. Having served as a TA in both the Data Science and Math departments, I enjoy helping a variety of students in tutoring roles in making STEM topics more accessible and easy to understand. I am also interested in topics related to music, film editing, linguistics, and neuroscience. Currently, I am researching methods in classifying mysterious infrasound signals through the Department of Earth, Environmental and Planetary Science at Northwestern

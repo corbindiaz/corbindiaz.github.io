@@ -1,6 +1,6 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-## logo: /img/github_profile_image.jpeg
+logo: /assets/img/github_profile_image.jpeg
 
 title: Corbin Stone Diaz
 description: Data Science and Mathematics Major @ Northwestern University
@@ -15,7 +15,7 @@ platforms:
     link: https://www.linkedin.com/in/corbin-diaz-6a7863281/
 
 navigation:
-  - name: Home
+  - name: About
     link: ./index.html
   - name: Projects
     link: ./projects.html

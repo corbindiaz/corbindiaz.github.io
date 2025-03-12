@@ -1,5 +1,5 @@
 ---
-id: Projects
+id: projects-page
 layout: default
 ---
 
