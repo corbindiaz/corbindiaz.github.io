@@ -2,13 +2,16 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 baseurl: ""
 url: "https://corbindiaz.github.io"
 
-logo: /assets/img/logo.jpg
+logo: /assets/img/logo.png
 
 title: Corbin Stone Diaz
 description: Data Science & Math Major <br />@ Northwestern University
 color-scheme: auto
 
 github: false
+
+include:
+  - assets
 
 plugins:
   - jemoji
