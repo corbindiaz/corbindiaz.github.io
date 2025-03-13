@@ -13,6 +13,14 @@ github: false
 include:
   - assets
 
+exclude: []
+
+defaults:
+  - scope:
+      path: "assets/*"
+    values:
+      layout: nil
+
 plugins:
   - jemoji
   - jekyll-remote-theme
