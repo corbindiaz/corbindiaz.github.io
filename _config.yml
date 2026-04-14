@@ -5,15 +5,15 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 url: "https://corbindiaz.github.io/"
 color-scheme: auto
 
-github: false
-
 include:
   - assets
   - pages
+  - "/assets/css/custom-styles.css"
 
 plugins:
   - jemoji
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 platforms:
   - name: GitHub
@@ -31,3 +31,7 @@ navigation:
     link: /index.html
   - name: Projects
     link: /pages/projects.html
+  - name: Research
+    link: /pages/research.html
+  - name: Teaching
+    link: /pages/teaching.html

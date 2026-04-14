@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-gemspec
-
 gem "jekyll-remote-theme"
-
 gem 'jemoji'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
