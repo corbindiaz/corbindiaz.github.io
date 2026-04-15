@@ -55,12 +55,12 @@ Some Text Describing my project
 Some Text Describing my project
 
 <div class="button-container">
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://docs.google.com/presentation/d/18kWNPcFGMsx8pxF9g-rNSpCYQmHu6-XyVGuV5PcTUh8/edit?usp=sharing" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> View Project Here
+            <i class="fa-solid fa-desktop"></i> View Presentation
         </button>
     </form>
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://github.com/corbindiaz/datafest-2025-manhattan-leasing-model" method="get" target="_blank">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> View on GitHub
         </button>
@@ -125,11 +125,6 @@ Some Text Describing my project
     <form action="https://docs.google.com/presentation/d/15rnevY5jpEr64rM68XP_lDL83qOoxD4uBaeV7uBKq4A/edit?usp=sharing" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> View Presentation
-        </button>
-    </form>
-    <form action="" method="get" target="_blank">
-        <button type="submit" class="custom-button github-button">
-            <i class="fa-brands fa-github"></i> View on GitHub
         </button>
     </form>
 </div>
