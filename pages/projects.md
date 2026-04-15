@@ -18,7 +18,7 @@ Some Text Describing my project
             <i class="fa-solid fa-desktop"></i> View Project Here
         </button>
     </form>
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://github.com/corbindiaz/Storm_Events_Interactive" method="get" target="_blank">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> View on GitHub
         </button>
@@ -69,20 +69,25 @@ Some Text Describing my project
 
 <hr class="divider-line">
 
+## Music Networks Report (*Python*)
+### Written Winter 2025
+
+## WildCards: 
+
 ## Airbnb Classification Model (*Python*)
 #### Developed Spring 2024
 
-### *3rd Place in Accuracy*
+### *5th Place in Accuracy*
 
 Some Text Describing my project
 
 <div class="button-container">
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://www.kaggle.com/competitions/classification-sp24-sec22-airbnb-host-status" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> View Project Here
+            <i class="fa-solid fa-desktop"></i> View on Kaggle
         </button>
     </form>
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://github.com/corbindiaz/airbnb_classification_problem" method="get" target="_blank">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> View on GitHub
         </button>
@@ -97,12 +102,12 @@ Some Text Describing my project
 Some Text Describing my project
 
 <div class="button-container">
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://devpost.com/software/canvassist-1ebvso" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> View Project Here
+            <i class="fa-solid fa-desktop"></i> View on Devpost
         </button>
     </form>
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://github.com/corbindiaz/wildhacks-2024-canvassist" method="get" target="_blank">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> View on GitHub
         </button>
@@ -117,12 +122,12 @@ Some Text Describing my project
 Some Text Describing my project
 
 <div class="button-container">
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://docs.google.com/presentation/d/15rnevY5jpEr64rM68XP_lDL83qOoxD4uBaeV7uBKq4A/edit?usp=sharing" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> View Project Here
+            <i class="fa-solid fa-desktop"></i> View Presentation
         </button>
     </form>
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="" method="get" target="_blank">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> View on GitHub
         </button>
@@ -137,14 +142,9 @@ Some Text Describing my project
 Some Text Describing my project
 
 <div class="button-container">
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <form action="https://github.com/corbindiaz/poker" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> View Project Here
-        </button>
-    </form>
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
-        <button type="submit" class="custom-button github-button">
-            <i class="fa-brands fa-github"></i> View on GitHub
         </button>
     </form>
 </div>

@@ -16,12 +16,12 @@ plugins:
   - jekyll-seo-tag
 
 platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/corbindiaz
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/corbin-diaz-6a7863281/
+  - name: Substack
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: https://substack.com/@corbindiaz
   - name: Email
     icon: <i class="fa fa-envelope" aria-hidden="true"></i>
     link: mailto:corbindiaz2026@u.northwestern.edu
