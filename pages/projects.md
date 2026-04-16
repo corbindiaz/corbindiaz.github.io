@@ -3,6 +3,41 @@ id: projects-page
 layout: default
 ---
 
+<div class="tabs">
+  <button onclick="openTab(event, 'Social')">Social Media</button>
+  <button onclick="openTab(event, 'Contact')">Contact</button>
+  <button onclick="openTab(event, 'Revisions')">Revisions</button>
+</div>
+
+<div id="Social" class="tabcontent">
+  <p>Social media content here</p>
+</div>
+
+<div id="Contact" class="tabcontent" style="display:none;">
+  <p>Contact content here</p>
+</div>
+
+<div id="Revisions" class="tabcontent" style="display:none;">
+  <p>Revisions content here</p>
+</div>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tabs;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tabs = document.getElementsByTagName("button");
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].className = tabs[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+
 # Projects
 
 ## 2022 Storm Events Interactive (*R & Shiny*)
@@ -45,12 +80,12 @@ The internal dashboard was made with Domo.com, an data interactive tool similar 
 <div class="button-container">
     <form action="https://embed.domo.com/embed/pages/oV2yB" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> Internal Dashboard on Domo.com
+            <i class="fa-solid fa-desktop"></i> Internal (Domo.com)
         </button>
     </form>
     <form action="https://externaldash-vzxlgese4ww26ulwxvbb39.streamlit.app/" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> External Dashboard on Streamlit
+            <i class="fa-solid fa-desktop"></i> External (Streamlit)
         </button>
     </form>
 </div>
@@ -92,7 +127,7 @@ The following is a summary of notes taken from the Mathematical Approaches to Ne
     <form action="https://drive.google.com/file/d/12EoWhme6aOXhvBSY-3aMuG0U-YbKxzyl/view?usp=sharing" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-file-lines"></i> Report
-        </button>c
+        </button>
     </form>
 </div>
 
