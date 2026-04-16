@@ -4,9 +4,7 @@ layout: default
 ---
 # Research
 
-## Current Research
-
-### Honors Thesis: Modeling Zebrafish Tail Locomotion Using Biologically Relevant Dynamics (*Aug 2025 - Present*)
+## Honors Thesis: Modeling Zebrafish Tail Locomotion Using Biologically Relevant Dynamics (*Aug 2025 - Present*)
 #### Department of Neurobiology, Department of Data Science & Statistics
 
 Currently, I'm researching under Prof. James E. Fitzgerald and Prof. Tirtho Biswas in the [Fitzgerald lab](https://sites.northwestern.edu/fitzgeraldlab/) on modeling zebrafish tail locomotion using
@@ -14,17 +12,25 @@ biologically relevant dynamics as part of my Honors thesis in data science. Comp
 
 As part of a talk to the Northwestern Undergraduate Math Society, I presented a preview of research put more into the context of an introduction to computational neuroscience. It can viewed below.
 
-
+<div class="button-container">
+    <form action="https://drive.google.com/file/d/1y4f0cCMX_mwCwEhVO6RCq0M3FdJc_YiU/view?usp=sharing" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-chalkboard"></i> Presentation
+        </button>
+    </form>
+</div>
 
 <hr class="divider-line">
 
-## Past Research
+https://github.com/corbindiaz/is2ta
 
-### IS2TA: Mathematical Techniques to Signal Recovery & Reconstruction (*Jun 2025 - Aug 2025*)
+# Past Research
+
+## IS2TA: Mathematical Techniques to Signal Recovery & Reconstruction (*Jun 2025 - Aug 2025*)
 #### Department of Earth Environmental and Planetary Science
 
 In the summer of 2025, I researched under the mentorship of Suzan van der Lee on signal recovery of inaccurately digitized seismograms through a mathematical lens. The goal was to develop a mathematical technique that could take poorly scanned analogue signals and recover the signal from the inaccurate reconstruction. During this time, I developed IS2TA (Iterative Segment-to-Trace Assignment), an algorithm that could convert segment data of signals into full data by iteratively assigning and reconstructing each trace. The program worked surprisngly well, and was passed down to the rest of the department to help further improve digitization programs such as SKATE.
 
 
-### Mysterious Infrasound Signals (*Aug 2024 - May 2025*)
+## Mysterious Infrasound Signals (*Aug 2024 - May 2025*)
 #### Department of Earth, Environmental and Planetary Science

@@ -30,11 +30,11 @@ I later submitted this project to Northwestern's 2025 CoDEx Research Symposium, 
 This visualization tool is built using Shiny and R and incorporates many packages such as ggplot, leaflet, and interactive tables.
 
 <div class="button-container">
-    <form action="https://corbinstone.shinyapps.io/2022_Storm_Events_App/" method="get" target="_blank">
+    <a href="https://corbinstone.shinyapps.io/2022_Storm_Events_App/">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> Interactive
         </button>
-    </form>
+    </a>
     <form action="https://github.com/corbindiaz/Storm_Events_Interactive" method="get" target="_blank">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
