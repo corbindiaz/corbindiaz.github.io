@@ -78,7 +78,7 @@ The internal dashboard was made with Domo.com, an data interactive tool similar 
 This is an EDA project I helped create during my first data science class at Northwestern. The graphs were built in Python, and my task (slides 25 - 31) was to explore whether place size across different airlines had an effect on whether the flight would be delayed. The presentation can be viewed below.
 
 <div class="button-container">
-    <a href="assets/files/Increasing_Profitability.pdf">
+    <a href="../assets/files/Increasing_Profitability.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-chalkboard"></i> Presentation
         </button>
@@ -105,11 +105,11 @@ The 2025 Northwestern DataFest competition involved using leasing data from majo
 Our model was built in python and used a CatBoost classifier. We also used Tableau for EDA analysis.
 
 <div class="button-container">
-    <a href="assets/files/Datafest_MDR.pdf">
+    <a href="../assets/files/Datafest_MDR.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-chalkboard"></i> Presentation
         </button>
-    </form>
+    </a>
     <a href="https://github.com/corbindiaz/datafest-2025-manhattan-leasing-model">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
@@ -131,7 +131,7 @@ As part of a project in the Northwestern data science sequence, I built a models
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-people-group"></i> Kaggle Leaderboard
         </button>
-    </form>
+    </a>
     <a href="https://github.com/corbindiaz/airbnb_kaggle_problem">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
@@ -166,7 +166,7 @@ The project was built using React, Vercel, and Supabase. My contribution involve
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-people-group"></i> Devpost Submission
         </button>
-    </form>
+    </a>
     <a href="https://github.com/fsalmons/wildCards">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
@@ -225,7 +225,7 @@ This is command line poker game built in jupyter notebook that I created during 
 The following is a summary of notes taken from the Mathematical Approaches to Neural Networks class at Northwestern during my senior year. The report gives details of theorems that showcase how neural networks are capable of modeling regression and classification problems in machine learning through various universal approximation theorems and results on VC dimension.
 
 <div class="button-container">
-    <a href="assets/files/neural_networks_report.pdf">
+    <a href="../assets/files/neural_networks_report.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-file-lines"></i> Report
         </button>
@@ -244,7 +244,7 @@ During a Music and Algorithms class at Northwestern, I created a report that map
 The complete report and code used can be viewed below.
 
 <div class="button-container">
-    <a href="assets/files/Mapping_Genre_Preferences_Onto_A_Social_Network.pdf">
+    <a href="../assets/files/Mapping_Genre_Preferences_Onto_A_Social_Network.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-file-lines"></i> Report
         </button>
