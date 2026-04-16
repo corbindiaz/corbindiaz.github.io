@@ -11,7 +11,7 @@ layout: default
 </div>
 
 
-<div id="Visuals" class="tabcontent">
+<div id="Visuals">
 
 ## 2022 Storm Events Interactive (*R & Shiny*)
 #### Developed August 2023
@@ -82,10 +82,13 @@ This is an EDA project I helped create during my first data science class at Nor
     </form>
 </div>
 
-
 </div>
 
-<div id="Models" class="tabcontent" style="display:none;">
+
+
+
+
+<div id="Models">
 
 ## Manhattan Leasing Prediction Model: 2025 DataFest Entry (*Python & Tableau*)
 #### Developed April 2025
@@ -133,7 +136,12 @@ As part of a project in the Northwestern data science sequence, I built a models
 
 </div>
 
-<div id="Apps" class="tabcontent" style="display:none;">
+
+
+
+
+
+<div id="Apps">
 
 ## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
 ### Developed Spring 2026
@@ -201,7 +209,13 @@ This is command line poker game built in jupyter notebook that I created during 
 
 </div>
 
-<div id="Reports" class="tabcontent" style="display:none;">
+
+
+
+
+
+
+<div id="Reports">
 
 ## The Expressibility of Neural Networks for Regression and Classification Problems
 ### Written Winter 2026

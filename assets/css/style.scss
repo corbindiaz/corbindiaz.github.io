@@ -6,7 +6,7 @@
 .tabs {
   display: flex;
   gap: 20px;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #FFFFFF;
   margin-bottom: 10px;
 }
 
@@ -16,17 +16,17 @@
   padding: 8px 0;
   font-size: 16px;
   cursor: pointer;
-  color: #555;
+  color: #FFFFFF;
   border-bottom: 2px solid transparent;
 }
 
 .tablink:hover {
-  color: #000;
+  color: #007bff;
 }
 
 .tablink.active {
-  color: #000;
-  border-bottom: 2px solid #000;
+  color: #007bff;
+  border-bottom: 2px solid #007bff;
   font-weight: 500;
 }
 
