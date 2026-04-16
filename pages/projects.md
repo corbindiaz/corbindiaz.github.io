@@ -35,11 +35,11 @@ This visualization tool is built using Shiny and R and incorporates many package
             <i class="fa-solid fa-desktop"></i> Interactive
         </button>
     </a>
-    <form action="https://github.com/corbindiaz/Storm_Events_Interactive" method="get" target="_blank">
+    <a href="https://github.com/corbindiaz/Storm_Events_Interactive">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
         </button>
-    </form>
+    </a>
 </div>
 
 <hr class="divider-line">
@@ -56,16 +56,16 @@ The internal dashboard was made with Domo.com, an data interactive tool similar 
 **Note:** Domo.com and Streamlit frequently change some of their functionality overtime. Therefore, the above dashboards may not display or be spaced correctly. Please notify me of any major disturbances or errors.
 
 <div class="button-container">
-    <form action="https://embed.domo.com/embed/pages/oV2yB" method="get" target="_blank">
+    <a href="https://embed.domo.com/embed/pages/oV2yB">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> Internal (Domo.com)
         </button>
-    </form>
-    <form action="https://externaldash-vzxlgese4ww26ulwxvbb39.streamlit.app/" method="get" target="_blank">
+    </a>
+    <a href="https://externaldash-vzxlgese4ww26ulwxvbb39.streamlit.app/">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> External (Streamlit)
         </button>
-    </form>
+    </a>
 </div>
 
 <hr class="divider-line">
@@ -78,11 +78,11 @@ The internal dashboard was made with Domo.com, an data interactive tool similar 
 This is an EDA project I helped create during my first data science class at Northwestern. The graphs were built in Python, and my task (slides 25 - 31) was to explore whether place size across different airlines had an effect on whether the flight would be delayed. The presentation can be viewed below.
 
 <div class="button-container">
-    <form action="https://docs.google.com/presentation/d/15rnevY5jpEr64rM68XP_lDL83qOoxD4uBaeV7uBKq4A/edit?usp=sharing" method="get" target="_blank">
+    <a href="assets/files/Increasing_Profitability.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-chalkboard"></i> Presentation
         </button>
-    </form>
+    </a>
 </div>
 </div>
 
@@ -105,16 +105,16 @@ The 2025 Northwestern DataFest competition involved using leasing data from majo
 Our model was built in python and used a CatBoost classifier. We also used Tableau for EDA analysis.
 
 <div class="button-container">
-    <form action="https://docs.google.com/presentation/d/18kWNPcFGMsx8pxF9g-rNSpCYQmHu6-XyVGuV5PcTUh8/edit?usp=sharing" method="get" target="_blank">
+    <a href="assets/files/Datafest_MDR.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-chalkboard"></i> Presentation
         </button>
     </form>
-    <form action="https://github.com/corbindiaz/datafest-2025-manhattan-leasing-model" method="get" target="_blank">
+    <a href="https://github.com/corbindiaz/datafest-2025-manhattan-leasing-model">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
         </button>
-    </form>
+    </a>
 </div>
 
 <hr class="divider-line">
@@ -127,16 +127,16 @@ Our model was built in python and used a CatBoost classifier. We also used Table
 As part of a project in the Northwestern data science sequence, I built a models based on AirBnB data. The first model from Winter 2024 was a linear regression model that predicted the price of AirBnB's and placed 3rd place overall for lowest test RMSE, although this Kaggle leaderboard is now gone. The second model from Spring 2025 was a cassifer that could predict whether a given Airbnb was from a host or a superhost. The model placed 5th in my class overall, and it's leaderboard can still be viewed below. This final model was built using CatBoost in python.
 
 <div class="button-container">
-    <form action="https://www.kaggle.com/competitions/classification-sp24-sec22-airbnb-host-status" method="get" target="_blank">
+    <a href="https://www.kaggle.com/competitions/classification-sp24-sec22-airbnb-host-status">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-people-group"></i> Kaggle Leaderboard
         </button>
     </form>
-    <form action="https://github.com/corbindiaz/airbnb_kaggle_problem" method="get" target="_blank">
+    <a href="https://github.com/corbindiaz/airbnb_kaggle_problem">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
         </button>
-    </form>
+    </a>
 </div>
 </div>
 
@@ -157,21 +157,21 @@ The project was built using React, Vercel, and Supabase. My contribution involve
 **Note:** this app is continuing to be expanded upon, and updates are made to appearance everynow and then.
 
 <div class="button-container">
-    <form action="https://stadium-card-collector.vercel.app/login" method="get" target="_blank">
+    <a href="https://stadium-card-collector.vercel.app/login">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> App
         </button>
-    </form>
-    <form action="https://devpost.com/software/wildcards?ref_content=my-projects-tab&ref_feature=my_projects" method="get" target="_blank">
+    </a>
+    <a href="https://devpost.com/software/wildcards?ref_content=my-projects-tab&ref_feature=my_projects">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-people-group"></i> Devpost Submission
         </button>
     </form>
-    <form action="https://github.com/fsalmons/wildCards" method="get" target="_blank">
+    <a href="https://github.com/fsalmons/wildCards">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
         </button>
-    </form>
+    </a>
 </div>
 
 <hr class="divider-line">
@@ -182,16 +182,16 @@ The project was built using React, Vercel, and Supabase. My contribution involve
 As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a scheduler that connected to user's Canvas profiles to automatically determine a suitable order to complete the tasks in. My contribution was creating a simple algorithm that organized assignment data based on its points, data, and how long it was expected to take to determine an overall ranking.
 
 <div class="button-container">
-    <form action="https://devpost.com/software/canvassist-1ebvso" method="get" target="_blank">
+    <a href="https://devpost.com/software/canvassist-1ebvso">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-people-group"></i> Devpost Submission
         </button>
-    </form>
-    <form action="https://github.com/corbindiaz/wildhacks-2024-canvassist" method="get" target="_blank">
+    </a>
+    <a href="https://github.com/corbindiaz/wildhacks-2024-canvassist">
         <button type="submit" class="custom-button github-button">
             <i class="fa-brands fa-github"></i> GitHub
         </button>
-    </form>
+    </a>
 </div>
 
 <hr class="divider-line">
@@ -202,11 +202,11 @@ As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a 
 This is command line poker game built in jupyter notebook that I created during my first class in python at Northwestern. It allows users to bet, call, and raise against the computer, and determines who wins automatically.
 
 <div class="button-container">
-    <form action="https://github.com/corbindiaz/poker" method="get" target="_blank">
+    <a href="https://github.com/corbindiaz/poker">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-desktop"></i> Github
         </button>
-    </form>
+    </a>
 </div>
 
 </div>
@@ -225,11 +225,11 @@ This is command line poker game built in jupyter notebook that I created during 
 The following is a summary of notes taken from the Mathematical Approaches to Neural Networks class at Northwestern during my senior year. The report gives details of theorems that showcase how neural networks are capable of modeling regression and classification problems in machine learning through various universal approximation theorems and results on VC dimension.
 
 <div class="button-container">
-    <form action="https://drive.google.com/file/d/12EoWhme6aOXhvBSY-3aMuG0U-YbKxzyl/view?usp=sharing" method="get" target="_blank">
+    <a href="assets/files/neural_networks_report.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-file-lines"></i> Report
         </button>
-    </form>
+    </a>
 </div>
 
 <hr class="divider-line">
@@ -244,11 +244,11 @@ During a Music and Algorithms class at Northwestern, I created a report that map
 The complete report and code used can be viewed below.
 
 <div class="button-container">
-    <form action="https://drive.google.com/drive/folders/1QbknvsedWfeHdfIuPQezl2YX3gCvPnm2?usp=sharing" method="get" target="_blank">
+    <a href="assets/files/Mapping_Genre_Preferences_Onto_A_Social_Network.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-file-lines"></i> Report
         </button>
-    </form>
+    </a>
 </div>
 
 </div>

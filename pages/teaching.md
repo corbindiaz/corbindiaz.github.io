@@ -11,4 +11,29 @@ Quotes go here.
 
 ## Mathematics Resources
 
-Files go here.
+The Calculus Bible (written in 2022)
+<div class="button-container">
+    <a href="assets/files/Calculus_Bible_v2.4.pdf">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-file-lines"></i> Reference Sheet
+        </button>
+    </a>
+</div>
+
+Students Guide to Rational Function Integration (written 2025)
+<div class="button-container">
+    <a href="assets/files/Rational_Function_Integration.pdf">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-file-lines"></i> Guide
+        </button>
+    </a>
+</div>
+
+Students Guide to Taylor Series Error Bound Calculations (written 2025)
+<div class="button-container">
+    <a href="assets/files/Taylor_Series_Error_Bound.pdf">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-file-lines"></i> Guide
+        </button>
+    </a>
+</div>
