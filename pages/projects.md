@@ -147,7 +147,6 @@ As part of a project in the Northwestern data science sequence, I built a models
 
 <div id="Apps" class="tabcontent" markdown="1" style="display:none;">
 
-
 ## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
 ### Developed Spring 2026
 
@@ -194,7 +193,6 @@ As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a 
         </button>
     </form>
 </div>
-</div>
 
 <hr class="divider-line">
 
@@ -209,6 +207,9 @@ This is command line poker game built in jupyter notebook that I created during 
             <i class="fa-solid fa-desktop"></i> Github
         </button>
     </form>
+</div>
+
+</div>
 
 
 
