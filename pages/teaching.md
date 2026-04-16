@@ -13,7 +13,7 @@ Quotes go here.
 
 The Calculus Bible (written in 2022)
 <div class="button-container">
-    <a href="assets/files/Calculus_Bible_v2.4.pdf">
+    <a href="../assets/files/Calculus_Bible_v2.4.pdf">
         <button type="submit" class="custom-button project-button">
             <i class="fa-solid fa-file-lines"></i> Reference Sheet
         </button>
