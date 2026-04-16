@@ -15,6 +15,7 @@ layout: default
 
 <div id="Visuals" class="tabcontent" markdown="1">
 
+
 ## 2022 Storm Events Interactive (*R & Shiny*)
 #### Developed August 2023
 
@@ -52,6 +53,8 @@ As part of my 2024 summer data sciene internship, I helped develop data dashboar
 
 The internal dashboard was made with Domo.com, an data interactive tool similar to Tableau, while the extern dashboard was made with Python Streamlit, a python alternative similar to an R Shiny app. Out of Project SYNCERE's wishes, I have hid most of their sensitive data and code from the public, but my dashboards can still be viewed below.
 
+**Note:** Domo.com and Streamlit frequently change some of their functionality overtime. Therefore, the above dashboards may not display or be spaced correctly. Please notify me of any major disturbances or errors.
+
 <div class="button-container">
     <form action="https://embed.domo.com/embed/pages/oV2yB" method="get" target="_blank">
         <button type="submit" class="custom-button project-button">
@@ -64,8 +67,6 @@ The internal dashboard was made with Domo.com, an data interactive tool similar 
         </button>
     </form>
 </div>
-
-Note: Domo.com and Streamlit frequently change some of their functionality overtime. Therefore, the above dashboards may not display or be spaced correctly. Please notify me of any major disturbances or errors.
 
 <hr class="divider-line">
 
@@ -83,11 +84,16 @@ This is an EDA project I helped create during my first data science class at Nor
         </button>
     </form>
 </div>
-
-
 </div>
 
-<div id="Models" class="tabcontent" style="display:none;">
+
+
+
+
+
+
+<div id="Models" class="tabcontent" markdown="1" style="display:none;">
+
 
 ## Manhattan Leasing Prediction Model: 2025 DataFest Entry (*Python & Tableau*)
 #### Developed April 2025
@@ -132,10 +138,15 @@ As part of a project in the Northwestern data science sequence, I built a models
         </button>
     </form>
 </div>
-
 </div>
 
-<div id="Apps" class="tabcontent" style="display:none;">
+
+
+
+
+
+<div id="Apps" class="tabcontent" markdown="1" style="display:none;">
+
 
 ## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
 ### Developed Spring 2026
@@ -143,6 +154,8 @@ As part of a project in the Northwestern data science sequence, I built a models
 As part of the 2026 Northwestern Hackathon, I was part of a team that developed a sports trading card game with the object of bring the trading card experience to the digital world. Users could collect team cards by going to stadiums, trade with friends, and engage in battles using their collections.
 
 The project was built using React, Vercel, and Supabase. My contribution involved created python data crawlers that scraped information about sports players, photos, and team information to use to build the trading cards.
+
+**Note:** this app is continuing to be expanded upon, and updates are made to appearance everynow and then.
 
 <div class="button-container">
     <form action="https://stadium-card-collector.vercel.app/login" method="get" target="_blank">
@@ -161,10 +174,6 @@ The project was built using React, Vercel, and Supabase. My contribution involve
         </button>
     </form>
 </div>
-
-Note this app is continuing to be expanded upon, and updates are made to appearance everynow and then.
-
-
 
 <hr class="divider-line">
 
@@ -187,7 +196,14 @@ As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a 
 </div>
 </div>
 
-<div id="Reports" class="tabcontent" style="display:none;">
+
+
+
+
+
+
+<div id="Reports" class="tabcontent" markdown="1" style="display:none;">
+
 
 ## The Expressibility of Neural Networks for Regression and Classification Problems
 ### Written Winter 2026
