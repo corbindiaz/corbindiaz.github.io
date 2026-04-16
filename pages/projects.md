@@ -4,41 +4,14 @@ layout: default
 ---
 
 <div class="tabs">
-  <button onclick="openTab(event, 'Social')">Social Media</button>
-  <button onclick="openTab(event, 'Contact')">Contact</button>
-  <button onclick="openTab(event, 'Revisions')">Revisions</button>
+  <button class="tablink active" onclick="openTab(event, 'Visuals')">Visuals</button>
+  <button class="tablink" onclick="openTab(event, 'Models')">Models</button>
+  <button class="tablink" onclick="openTab(event, 'Apps')">Apps</button>
+  <button class="tablink" onclick="openTab(event, 'Reports')">Reports</button>
 </div>
 
-<div id="Social" class="tabcontent">
-  <p>Social media content here</p>
-</div>
 
-<div id="Contact" class="tabcontent" style="display:none;">
-  <p>Contact content here</p>
-</div>
-
-<div id="Revisions" class="tabcontent" style="display:none;">
-  <p>Revisions content here</p>
-</div>
-
-<script>
-function openTab(evt, tabName) {
-  var i, tabcontent, tabs;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tabs = document.getElementsByTagName("button");
-  for (i = 0; i < tabs.length; i++) {
-    tabs[i].className = tabs[i].className.replace(" active", "");
-  }
-  document.getElementById(tabName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
-
-
-# Projects
+<div id="Visuals" class="tabcontent">
 
 ## 2022 Storm Events Interactive (*R & Shiny*)
 #### Developed August 2023
@@ -94,6 +67,26 @@ Note: Domo.com and Streamlit frequently change some of their functionality overt
 
 <hr class="divider-line">
 
+## Airport Takeoff Data EDA (*Python*)
+#### Developed Fall 2023
+
+<img src="/assets/img/airline_eda.png" alt="Slide from Airport Takeoff Data EDA Presentation">
+
+This is an EDA project I helped create during my first data science class at Northwestern. The graphs were built in Python, and my task (slides 25 - 31) was to explore whether place size across different airlines had an effect on whether the flight would be delayed. The presentation can be viewed below.
+
+<div class="button-container">
+    <form action="https://docs.google.com/presentation/d/15rnevY5jpEr64rM68XP_lDL83qOoxD4uBaeV7uBKq4A/edit?usp=sharing" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-chalkboard"></i> Presentation
+        </button>
+    </form>
+</div>
+
+
+</div>
+
+<div id="Models" class="tabcontent" style="display:none;">
+
 ## Manhattan Leasing Prediction Model: 2025 DataFest Entry (*Python & Tableau*)
 #### Developed April 2025
 
@@ -117,6 +110,98 @@ Our model was built in python and used a CatBoost classifier. We also used Table
 </div>
 
 <hr class="divider-line">
+
+## Airbnb Models (*Python*)
+#### Developed Winter & Spring 2024
+
+### *3rd Place in Error (Regression)* , *5th Place in Accuracy (Classification)*
+
+As part of a project in the Northwestern data science sequence, I built a models based on AirBnB data. The first model from Winter 2024 was a linear regression model that predicted the price of AirBnB's and placed 3rd place overall for lowest test RMSE, although this Kaggle leaderboard is now gone. The second model from Spring 2025 was a cassifer that could predict whether a given Airbnb was from a host or a superhost. The model placed 5th in my class overall, and it's leaderboard can still be viewed below. This final model was built using CatBoost in python.
+
+<div class="button-container">
+    <form action="https://www.kaggle.com/competitions/classification-sp24-sec22-airbnb-host-status" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-people-group"></i> Kaggle Leaderboard
+        </button>
+    </form>
+    <form action="https://github.com/corbindiaz/airbnb_kaggle_problem" method="get" target="_blank">
+        <button type="submit" class="custom-button github-button">
+            <i class="fa-brands fa-github"></i> GitHub
+        </button>
+    </form>
+</div>
+
+</div>
+
+<div id="Apps" class="tabcontent" style="display:none;">
+
+## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
+### Developed Spring 2026
+
+As part of the 2026 Northwestern Hackathon, I was part of a team that developed a sports trading card game with the object of bring the trading card experience to the digital world. Users could collect team cards by going to stadiums, trade with friends, and engage in battles using their collections.
+
+The project was built using React, Vercel, and Supabase. My contribution involved created python data crawlers that scraped information about sports players, photos, and team information to use to build the trading cards.
+
+<div class="button-container">
+    <form action="https://stadium-card-collector.vercel.app/login" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-desktop"></i> App
+        </button>
+    </form>
+    <form action="https://devpost.com/software/wildcards?ref_content=my-projects-tab&ref_feature=my_projects" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-people-group"></i> Devpost Submission
+        </button>
+    </form>
+    <form action="https://github.com/fsalmons/wildCards" method="get" target="_blank">
+        <button type="submit" class="custom-button github-button">
+            <i class="fa-brands fa-github"></i> GitHub
+        </button>
+    </form>
+</div>
+
+Note this app is continuing to be expanded upon, and updates are made to appearance everynow and then.
+
+
+
+<hr class="divider-line">
+
+## CanvAssist: 2024 WildHacks Entry (*Python*)
+#### Developed April 2024
+
+As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a scheduler that connected to user's Canvas profiles to automatically determine a suitable order to complete the tasks in. My contribution was creating a simple algorithm that organized assignment data based on its points, data, and how long it was expected to take to determine an overall ranking.
+
+<div class="button-container">
+    <form action="https://devpost.com/software/canvassist-1ebvso" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-people-group"></i> Devpost Submission
+        </button>
+    </form>
+    <form action="https://github.com/corbindiaz/wildhacks-2024-canvassist" method="get" target="_blank">
+        <button type="submit" class="custom-button github-button">
+            <i class="fa-brands fa-github"></i> GitHub
+        </button>
+    </form>
+</div>
+
+<hr class="divider-line">
+
+## Single Player Poker (*Python*)
+#### Developed Fall 2022
+
+This is command line poker game built in jupyter notebook that I created during my first class in python at Northwestern. It allows users to bet, call, and raise against the computer, and determines who wins automatically.
+
+<div class="button-container">
+    <form action="https://github.com/corbindiaz/poker" method="get" target="_blank">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-desktop"></i> Github
+        </button>
+    </form>
+</div>
+
+</div>
+
+<div id="Reports" class="tabcontent" style="display:none;">
 
 ## The Expressibility of Neural Networks for Regression and Classification Problems
 ### Written Winter 2026
@@ -150,105 +235,45 @@ The complete report and code used can be viewed below.
     </form>
 </div>
 
-<hr class="divider-line">
-
-## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
-### Developed Spring 2026
-
-As part of the 2026 Northwestern Hackathon, I was part of a team that developed a sports trading card game with the object of bring the trading card experience to the digital world. Users could collect team cards by going to stadiums, trade with friends, and engage in battles using their collections.
-
-The project was built using React, Vercel, and Supabase. My contribution involved created python data crawlers that scraped information about sports players, photos, and team information to use to build the trading cards.
-
-<div class="button-container">
-    <form action="https://stadium-card-collector.vercel.app/login" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> App
-        </button>
-    </form>
-    <form action="https://devpost.com/software/wildcards?ref_content=my-projects-tab&ref_feature=my_projects" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-people-group"></i> Devpost Submission
-        </button>
-    </form>
-    <form action="https://github.com/fsalmons/wildCards" method="get" target="_blank">
-        <button type="submit" class="custom-button github-button">
-            <i class="fa-brands fa-github"></i> GitHub
-        </button>
-    </form>
 </div>
 
-Note this app is continuing to be expanded upon, and updates are made to appearance everynow and then.
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tabs;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tabs = document.getElementsByTagName("button");
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].className = tabs[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+
+# Projects
+
+
+
+
 
 <hr class="divider-line">
 
-## Airbnb Models (*Python*)
-#### Developed Winter & Spring 2024
 
-### *3rd Place in Error (Regression)* , *5th Place in Accuracy (Classification)*
 
-As part of a project in the Northwestern data science sequence, I built a models based on AirBnB data. The first model from Winter 2024 was a linear regression model that predicted the price of AirBnB's and placed 3rd place overall for lowest test RMSE, although this Kaggle leaderboard is now gone. The second model from Spring 2025 was a cassifer that could predict whether a given Airbnb was from a host or a superhost. The model placed 5th in my class overall, and it's leaderboard can still be viewed below. This final model was built using CatBoost in python.
 
-<div class="button-container">
-    <form action="https://www.kaggle.com/competitions/classification-sp24-sec22-airbnb-host-status" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-people-group"></i> Kaggle Leaderboard
-        </button>
-    </form>
-    <form action="https://github.com/corbindiaz/airbnb_kaggle_problem" method="get" target="_blank">
-        <button type="submit" class="custom-button github-button">
-            <i class="fa-brands fa-github"></i> GitHub
-        </button>
-    </form>
-</div>
 
 <hr class="divider-line">
 
-## CanvAssist: 2024 WildHacks Entry (*Python*)
-#### Developed April 2024
 
-As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a scheduler that connected to user's Canvas profiles to automatically determine a suitable order to complete the tasks in. My contribution was creating a simple algorithm that organized assignment data based on its points, data, and how long it was expected to take to determine an overall ranking.
 
-<div class="button-container">
-    <form action="https://devpost.com/software/canvassist-1ebvso" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-people-group"></i> Devpost Submission
-        </button>
-    </form>
-    <form action="https://github.com/corbindiaz/wildhacks-2024-canvassist" method="get" target="_blank">
-        <button type="submit" class="custom-button github-button">
-            <i class="fa-brands fa-github"></i> GitHub
-        </button>
-    </form>
-</div>
+
 
 <hr class="divider-line">
 
-## Airport Takeoff Data EDA (*Python*)
-#### Developed Fall 2023
 
-<img src="/assets/img/airline_eda.png" alt="Slide from Airport Takeoff Data EDA Presentation">
 
-This is an EDA project I helped create during my first data science class at Northwestern. The graphs were built in Python, and my task (slides 25 - 31) was to explore whether place size across different airlines had an effect on whether the flight would be delayed. The presentation can be viewed below.
 
-<div class="button-container">
-    <form action="https://docs.google.com/presentation/d/15rnevY5jpEr64rM68XP_lDL83qOoxD4uBaeV7uBKq4A/edit?usp=sharing" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-chalkboard"></i>Presentation
-        </button>
-    </form>
-</div>
-
-<hr class="divider-line">
-
-## Single Player Poker (*Python*)
-#### Developed Fall 2022
-
-This is command line poker game built in jupyter notebook that I created during my first class in python at Northwestern. It allows users to bet, call, and raise against the computer, and determines who wins automatically.
-
-<div class="button-container">
-    <form action="https://github.com/corbindiaz/poker" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> Github
-        </button>
-    </form>
-</div>
