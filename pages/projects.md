@@ -3,6 +3,8 @@ id: projects-page
 layout: default
 ---
 
+# Projects
+
 <div class="tabs">
   <button class="tablink active" onclick="openTab(event, 'Visuals')">Visuals</button>
   <button class="tablink" onclick="openTab(event, 'Models')">Models</button>
@@ -11,7 +13,7 @@ layout: default
 </div>
 
 
-<div id="Visuals">
+<div id="Visuals" class="tabcontent" markdown="1">
 
 ## 2022 Storm Events Interactive (*R & Shiny*)
 #### Developed August 2023
@@ -82,13 +84,10 @@ This is an EDA project I helped create during my first data science class at Nor
     </form>
 </div>
 
+
 </div>
 
-
-
-
-
-<div id="Models">
+<div id="Models" class="tabcontent" style="display:none;">
 
 ## Manhattan Leasing Prediction Model: 2025 DataFest Entry (*Python & Tableau*)
 #### Developed April 2025
@@ -136,12 +135,7 @@ As part of a project in the Northwestern data science sequence, I built a models
 
 </div>
 
-
-
-
-
-
-<div id="Apps">
+<div id="Apps" class="tabcontent" style="display:none;">
 
 ## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
 ### Developed Spring 2026
@@ -191,31 +185,9 @@ As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a 
         </button>
     </form>
 </div>
-
-<hr class="divider-line">
-
-## Single Player Poker (*Python*)
-#### Developed Fall 2022
-
-This is command line poker game built in jupyter notebook that I created during my first class in python at Northwestern. It allows users to bet, call, and raise against the computer, and determines who wins automatically.
-
-<div class="button-container">
-    <form action="https://github.com/corbindiaz/poker" method="get" target="_blank">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> Github
-        </button>
-    </form>
 </div>
 
-</div>
-
-
-
-
-
-
-
-<div id="Reports">
+<div id="Reports" class="tabcontent" style="display:none;">
 
 ## The Expressibility of Neural Networks for Regression and Classification Problems
 ### Written Winter 2026
@@ -266,27 +238,6 @@ function openTab(evt, tabName) {
   evt.currentTarget.className += " active";
 }
 </script>
-
-
-# Projects
-
-
-
-
-
-<hr class="divider-line">
-
-
-
-
-
-<hr class="divider-line">
-
-
-
-
-
-<hr class="divider-line">
 
 
 
