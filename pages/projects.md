@@ -202,9 +202,9 @@ As part of a 2024 Hackathon entry at Northwestern, I helped build CanvAssist, a 
 This is command line poker game built in jupyter notebook that I created during my first class in python at Northwestern. It allows users to bet, call, and raise against the computer, and determines who wins automatically.
 
 <div class="button-container">
-    <a href="https://github.com/corbindiaz/poker">
-        <button type="submit" class="custom-button project-button">
-            <i class="fa-solid fa-desktop"></i> Github
+    <a href="https://github.com/corbindiaz/poker" method="get" target="_blank">
+        <button type="submit" class="custom-button github-button">
+            <i class="fa-brands fa-github"></i> GitHub
         </button>
     </a>
 </div>
