@@ -11,11 +11,11 @@ Ever since high school, I've held teaching & tutoring positions in mathematics a
 
 <img src="/assets/img/ta_ctecs_1.png" alt="Positive teaching evaluations, part 1">
 
-<img src="/assets/img/ta_ctecs_2.png" alt="Positive teaching evaluations, part 2>
+<img src="/assets/img/ta_ctecs_2.png" alt="Positive teaching evaluations, part 2">
 
 <img src="/assets/img/ta_ctecs_3.png" alt="Positive teaching evaluations, part 3">
 
-######  Some personal information redacted.
+#####  Some personal information redacted.
 
 ## Mathematics Resources
 
