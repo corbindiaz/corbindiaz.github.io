@@ -22,6 +22,9 @@ platforms:
   - name: Substack
     icon: <i class="fa-solid fa-newspaper"></i>
     link: https://substack.com/@corbindiaz
+  - name: Resume
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ../assets/files/Diaz_Corbin_Resume_4_10_26.pdf
   - name: Email
     icon: <i class="fa fa-envelope" aria-hidden="true"></i>
     link: mailto:corbindiaz2026@u.northwestern.edu
