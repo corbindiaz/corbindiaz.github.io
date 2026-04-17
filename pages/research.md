@@ -36,7 +36,7 @@ As part of a talk to the Northwestern Undergraduate Math Society, I presented a 
 
 <img src="/assets/img/interpolation_second.png" alt="Interpolation of analogue signal via IS2TA">
 
-In the summer of 2025, I researched under the mentorship of Suzan van der Lee on signal recovery of inaccurately digitized seismograms through a mathematical lens. The goal was to develop a mathematical technique that could take poorly scanned analogue signals and recover the signal from inaccurate reconstructions. During this time, I developed IS2TA (**Iterative Segment-to-Trace Assignment**), an algorithm that could convert geometric data of signals into vectorized data by iteratively assigning and reconstructing each trace. The program worked surprisngly well, and was passed down to the rest of the department to help further improve digitization programs such as SKATE.
+In the summer of 2025, I researched under the mentorship of Suzan van der Lee on signal recovery of inaccurately digitized seismograms through a mathematical lens. The goal was to develop a mathematical technique that could take poorly scanned analogue signals and recover the signal from inaccurate reconstructions. During this time, I developed IS2TA (*Iterative Segment-to-Trace Assignment*), an algorithm that could convert geometric data of signals into vectorized data by iteratively assigning and reconstructing each trace. The program worked surprisngly well, and was passed down to the rest of the department to help further improve digitization programs such as SKATE.
 
 <div class="button-container">
     <a href="https://github.com/corbindiaz/is2ta" method="get" target="_blank">

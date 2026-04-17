@@ -148,7 +148,7 @@ As part of a project in the Northwestern data science sequence, I programed mode
 <div id="Apps" class="tabcontent" markdown="1" style="display:none;">
 
 ## WildCards: 2026 WildHacks Entry (*Python, React, Supabase*)
-### Developed Spring 2026
+#### Launched Spring 2026
 
 As part of the 2026 Northwestern Hackathon, I was part of a team that developed a sports trading card game with the object of bring the trading card experience to the digital world. Users could collect team cards by going to stadiums, trade with friends, and engage in battles using their collections.
 
