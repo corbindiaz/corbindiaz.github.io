@@ -18,7 +18,7 @@ plugins:
 platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/corbin-diaz-6a7863281/
+    link: https://www.linkedin.com/in/corbin-diaz/
   - name: Substack
     icon: <i class="fa-solid fa-newspaper"></i>
     link: https://substack.com/@corbindiaz
