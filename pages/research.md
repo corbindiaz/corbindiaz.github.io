@@ -16,6 +16,14 @@ Computational neuroscience and machine learning are heavily connected, and hence
 
 How can we model behavior like zebrafish tail locomotion in a way that is actually biologically plausible? How do we incorporate relevant biomechanics into our models? And most importantly, what can we learn from such models on how and why the neural circuitry is designed in such a way? Our research aims to answer these questions using both standard and cutting-edge machine learning tools on zebrafish swim bouts, incorporating both neuronal RNNs and physical dynamics. Our methods use a combination of regression analysis, control theory, and variational inference to infer possible parametrics and performance compared to real data.
 
+<div class="button-container">
+    <a href="../assets/files/Diaz_Corbin_Honors_Thesis_FinalDraft.pdf">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-file-lines"></i> Thesis
+        </button>
+    </a>
+</div>
+
 As part of a talk to the Northwestern Undergraduate Math Society, I presented a preview of my research put more into the context of an introduction to computational neuroscience. It can viewed below.
 
 <div class="button-container">

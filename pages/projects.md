@@ -218,6 +218,19 @@ This is command line poker game built in jupyter notebook that I created during 
 
 <div id="Reports" class="tabcontent" markdown="1" style="display:none;">
 
+## Gated Recurrent Neural Networks Report
+### Written Spring 2026
+
+The following is a report I wrote for my machine learning for data science class I took in the last quarter of my senior year at Northwestern. It goes over what I referred to as "gated recurrent neural networks", which encompasses LSTMs, GRUs and MGUs: all modern RNN achitectures that include "gated" units to control information flow. The report goes into how these models are structured and trained and the mathematical theory behind them, as well as an example of their performance comapred to regular RNNs on a motor-imagery prediction problem using EEG data.
+
+<div class="button-container">
+    <a href="../assets/files/Gated_Recurrent_Neural_Networks_Report_v2.html">
+        <button type="submit" class="custom-button project-button">
+            <i class="fa-solid fa-file-lines"></i> Report
+        </button>
+    </a>
+</div>
+
 
 ## The Expressibility of Neural Networks for Regression and Classification Problems
 ### Written Winter 2026
