@@ -21,7 +21,7 @@ platforms:
     link: https://www.linkedin.com/in/corbin-diaz/
   - name: Substack
     icon: <i class="fa-solid fa-newspaper"></i>
-    link: https://substack.com/@corbindiaz
+    link: https://corbindiaz.substack.com/
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ../assets/files/Diaz_Corbin_Resume_5_26_26.pdf
