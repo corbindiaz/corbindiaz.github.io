@@ -11,7 +11,7 @@ Through my coursework, I've developed a strong skillset in *Python*, *matlab*, a
 
 Research is not my only passion. Having served as a teaching assistant in both the Data Science and Math departments, I enjoy helping a variety of students in tutoring roles to make STEM topics more accessible and easy to understand. I strongly beleive every student holds the expertise to learning and excelling in mathematics, and just need the right resources, teaching, and confidence to unlock that power. I currently work as an **AMC 10/12 instructor at AoPS Academy** in Northbrook, IL, and also as a substitute teacher for the RSM at Illinois locations. 
 
-By request, I also private tutor students in topics from pre-Algebra to Calculus, as well as SAT/ACT prep and AMC 10/12 prep. *Please see the [teaching tab](pages/teaching.md) for more information.*
+By request, I also **private tutor** students in topics from pre-Algebra to Calculus, as well as SAT/ACT prep and AMC 10/12 prep. *Please see the [teaching tab](pages/teaching.md) for more information.*
 
 On the side, I enjoy music, sports, film editing, satirical news writing, and linguistics, and in my free time I like to cook, watch movies, build LEGO sets, visit museums, and take pictures of sunsets.
 
