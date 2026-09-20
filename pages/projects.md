@@ -231,6 +231,7 @@ The following is a report I wrote for my machine learning for data science class
     </a>
 </div>
 
+<hr class="divider-line">
 
 ## The Expressibility of Neural Networks for Regression and Classification Problems
 ### Written Winter 2026
